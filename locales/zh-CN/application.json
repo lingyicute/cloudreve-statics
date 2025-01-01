@@ -490,13 +490,13 @@
     "downloadNumber": "下载次数",
     "viewNumber": "浏览次数",
     "language": "语言",
-    "iOSApp": "iOS 客户端",
-    "connectByiOS": "通过 iOS 设备连接到 <0>{{title}}</0>",
-    "downloadOurApp": "下载并安装我们的 iOS 应用：",
-    "fillInEndpoint": "使用我们的 iOS 应用扫描下方二维码（其他扫码应用无效）：",
-    "loginApp": "完成绑定，你可以开始使用 iOS 客户端了。如果扫码绑定遇到问题，你也可以尝试手动输入用户名和密码登录。",
-    "aboutCloudreve": "关于 Cloudreve",
-    "githubRepo": "GitHub 仓库",
-    "homepage": "主页"
+    "iOSApp": "客户端",
+    "connectByiOS": "通过 App 连接到 <0>{{title}}</0>",
+    "downloadOurApp": "下载并安装 App：",
+    "fillInEndpoint": "使用扫描下方二维码：",
+    "loginApp": "完成绑定，你可以开始使用 App 了。如果扫码绑定遇到问题，还可以试试手动登录哦。",
+    "aboutCloudreve": "关于梨",
+    "githubRepo": "梨のGitHub",
+    "homepage": "梨のHome"
   }
 }
